@@ -1,4 +1,4 @@
 *
-!dataset_generator.ipynb
-!requirements.txt
-!.gitignore
+!/.gitignore
+!/*.ipynb
+!/*.txt
